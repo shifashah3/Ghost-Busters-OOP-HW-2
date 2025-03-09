@@ -1,4 +1,4 @@
-# **Ghost Busters
+# Ghost Busters
 
 ## **Overview**  
 This project is part of **Object-Oriented Programming (OOP) Homework 2**. **Ghost Busters** is a grid-based game where the player must locate a hidden ghost by strategically clicking on blocks. The game provides hints based on the player's clicks, guiding them closer to the ghost’s location. The objective is to correctly identify the ghost's position and capture it.  
